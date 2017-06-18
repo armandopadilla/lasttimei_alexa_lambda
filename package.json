@@ -1,0 +1,19 @@
+{
+  "name": "lasttimei_alexa_lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armandopadilla/lasttimei_alexa_lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armandopadilla/lasttimei_alexa_lambda/issues"
+  },
+  "homepage": "https://github.com/armandopadilla/lasttimei_alexa_lambda#readme"
+}
